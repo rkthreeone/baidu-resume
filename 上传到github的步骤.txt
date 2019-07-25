@@ -20,4 +20,6 @@
 
 2、git commit -m "注释"
 
-3、git push -u origin master //把本地库的所有内容推送到远程库上
+3、git remote add origin git@github.com:rkthreeone/baidu-resume.git // 关联远程仓库
+
+4、git push -u origin master //把本地库的所有内容推送到远程库上
