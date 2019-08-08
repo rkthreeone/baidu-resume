@@ -1,0 +1,187 @@
+
+.main-title {
+    padding: 20px 90px 20px 20px;
+    margin: 0;
+    background-color: #858585;
+    width: 1000px;
+    color: #fff;
+}
+.main {
+    margin: 0;
+}
+/* 基本信息 */
+.information {
+    border: 1px solid #d6d6d6;
+    width: 1108px;
+    height: 110px;
+    margin-bottom: 2px;
+}
+
+.information .title {
+    width: 110px;
+    height: 110px;
+    float: left;
+    text-align: center;
+    background-color: #d6d6d6;
+}
+
+.information .title p {
+    padding: 39% 0;
+}
+
+.information .content .ul-list {    
+    padding-left: 130px;
+    padding-top: 10px;
+}
+
+.information .content .ul-list .item-title {
+    margin-right: 10px;
+    display: inline-block;
+    font-weight: 500;
+}
+
+.information .content .ul-list .item-r {
+    margin-right: 50px;
+    display: inline-block;
+}
+
+/* 联系方式 */
+.contact {
+    border: 1px solid #d6d6d6;
+    width: 1108px;
+    height: 110px;
+    margin-bottom: 2px;
+}
+
+.contact .title {
+    width: 110px;
+    height: 110px;
+    float: left;
+    text-align: center;
+    background-color: #d6d6d6;
+}
+
+.contact .title p {
+    padding: 39% 0;
+}
+
+.contact .content .ul-list {
+    padding-left: 130px;
+    padding-top: 10px;
+}
+
+.contact .content .ul-list .item-title {
+    margin-right: 10px;
+    display: inline-block;
+    font-weight: 500;
+}
+
+.contact .content .ul-list .item-r {
+    margin-right: 50px;
+    display: inline-block;
+}
+
+/* 能力描述 */
+.ability {
+    border: 1px solid #d6d6d6;
+    width: 1108px;
+    height: 110px;
+    margin-bottom: 2px;
+}
+
+.ability .title {
+    width: 110px;
+    height: 110px;
+    float: left;
+    text-align: center;
+    background-color: #d6d6d6;
+}
+
+.ability .title p {
+    padding: 39% 0;
+}
+
+.ability .content .ul-list {
+    padding-left: 130px;
+    padding-top: 10px;
+}
+
+.ability .content .ul-list .item-title {
+    margin-right: 10px;
+    font-weight: 500; 
+    float: left;       
+}
+
+.ability .content .ul-list .item-r {
+    margin-bottom: 20px;
+}
+
+/* 教育经历 */
+.educate {
+    border: 1px solid #d6d6d6;
+    width: 1108px;
+    height: 110px;
+    margin-bottom: 2px;
+}
+
+.educate .title {
+    width: 110px;
+    height: 110px;
+    float: left;
+    text-align: center;
+    background-color: #d6d6d6;
+}
+
+.educate .title p {
+    padding: 39% 0;
+}
+
+.educate .content .ul-list{
+    padding-left: 130px;
+    padding-top: 10px;
+}
+
+.educate .content .ul-list .item-title {
+    margin-right: 10px;
+    font-weight: 500;
+    float: left;        
+}
+
+.educate .content .ul-list .item-r {
+    margin-bottom: 20px;
+}
+
+/* 项目经历 */
+.project {
+    border: 1px solid #d6d6d6;
+    width: 1108px;
+    height: 110px;
+    margin-bottom: 2px;
+}
+
+.project .title {
+    width: 110px;
+    height: 110px;
+    float: left;
+    text-align: center;
+    background-color: #d6d6d6;
+}
+
+.project .title p {
+    padding: 39% 0;
+}
+
+.project .content .ul-list{
+    padding-left: 130px;
+    padding-top: 10px;
+}
+
+.project .content .ul-list .item-title {
+    margin-right: 10px;
+    font-weight: 500;
+    float: left;        
+}
+
+.project .content .ul-list .item-r {
+    margin-bottom: 20px;
+}

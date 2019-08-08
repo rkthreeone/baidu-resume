@@ -1,0 +1,127 @@
+.main-title {
+    margin: 20px 0;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 450;
+}
+
+/* 基本信息 */
+.information {
+    margin: 20px 0;
+}
+
+.information .title {
+    font-size: 25px;
+    font-weight: 450;
+}
+
+.information .content {
+    margin: 20px 0;
+}
+
+.information .content .ul-list .item-title {
+    margin-right: 10px;
+    display: inline-block;
+    font-weight: 500;
+}
+
+.information .content .ul-list .item-r {
+    margin-right: 50px;
+    display: inline-block;
+}
+
+/* 联系方式 */
+.contact {
+    margin: 20px 0;
+}
+
+.contact .title {
+    font-size: 25px;
+    font-weight: 450;
+}
+
+.contact .content {
+    margin: 20px 0;
+}
+
+.contact .content .ul-list .item-title {
+    margin-right: 10px;
+    display: inline-block;
+    font-weight: 500;
+}
+
+.contact .content .ul-list .item-r {
+    margin-right: 50px;
+    display: inline-block;
+}
+
+/* 能力描述 */
+.ability {
+    margin: 20px 0;
+}
+
+.ability .title {
+    font-size: 25px;
+    font-weight: 450;
+}
+
+.ability .content {
+    margin: 20px 0;
+}
+
+.ability .content .ul-list .item-title {
+    margin-right: 10px;
+    font-weight: 500;        
+}
+
+.ability .content .ul-list .item-r {
+    margin-bottom: 20px;
+}
+
+/* 教育经历 */
+.educate {
+    margin: 20px 0;
+}
+
+.educate .title {
+    font-size: 25px;
+    font-weight: 450;
+}
+
+.educate .content {
+    margin: 20px 0;
+}
+
+.educate .content .ul-list .item-title {
+    margin-right: 10px;
+    font-weight: 500;        
+}
+
+.educate .content .ul-list .item-r {
+    margin-bottom: 20px;
+}
+
+/* 项目经历 */
+.project {
+    margin: 20px 0;
+}
+
+.project .title {
+    font-size: 25px;
+    font-weight: 450;
+}
+
+.project .content {
+    margin: 20px 0;
+}
+
+.project .content .ul-list .item-title {
+    margin-right: 10px;
+    font-weight: 500;        
+}
+
+.project .content .ul-list .item-r {
+    margin-bottom: 20px;
+}
